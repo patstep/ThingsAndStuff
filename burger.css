@@ -1,0 +1,51 @@
+.burger-component {
+	height: 25px;
+	width: 250px;
+	border-radius: 5px;
+}
+
+#div-1 {
+	height: 90px;
+	width: 250px;
+	background-color: burlywood;
+	border-top-left-radius: 80px;
+	border-top-right-radius: 80px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+#div-2 {
+	background-color: yellowgreen;
+}
+
+#div-3 {
+	background-color: tomato;
+}
+
+#div-4 {
+	background-color: gold;
+}
+
+#div-5 {
+	background-color: saddlebrown;
+}
+
+#div-6 {
+	background-color: yellowgreen;
+}
+
+#div-7 {
+	height: 40px;
+	width: 250px;
+	background-color: burlywood;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
+
+#burger-text {
+	font-size: 40px;
+	text-align: center;
+}
+
